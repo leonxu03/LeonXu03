@@ -1,12 +1,14 @@
 # Hi there 👋, welcome to Leon's GitHub Repo! 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/LeonXu03"><img alt="GitHub followers" src="https://img.shields.io/github/followers/LeonXu03">
 
-I am an undergraduate Computer Engineering student at the University of Waterloo. **Python**, **Go**, **Java**, **C++**, **Elixir**, **Javascript**, **Typescript** are the programming languages I am most proficient in. I love building niche, innovative tools to make our everyday lives easier. 
+I am an undergraduate Computer Engineering student at the University of Waterloo. **Python**, **Go**, **Java**, **C++**, **Elixir**, **Javascript**, **Typescript** are the programming languages I am most proficient in. 
+
+I love building cool, useful tools that make our everyday lives easier or more interesting :) 
 
 ## **💪 Past Internship Experience**
-- Software Engineer Intern @ [Tensor Trade](https://www.tensor.trade/)
-- Data Architect Intern @ [KOHO Financial Inc](https://www.linkedin.com/company/koho/posts/?feedView=all)
+- Full-Stack Mobile Software Engineer Intern @ [Tensor Trade](https://www.tensor.trade/)
 - Backend Software Engineer Intern @ [KOHO Financial Inc](https://www.linkedin.com/company/koho/posts/?feedView=all)
+- Data Architect Intern @ [KOHO Financial Inc](https://www.linkedin.com/company/koho/posts/?feedView=all)
 - Full-Stack Software Engineer Intern @ [How to Change the World Incorporated](https://www.linkedin.com/company/howtochangetheworld/posts/?feedView=all)
 - Hardware Engineer Intern @ [Amico Group of Companies](https://www.linkedin.com/company/amico-corporation/)
 
@@ -14,14 +16,15 @@ I am an undergraduate Computer Engineering student at the University of Waterloo
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
- **I am interested in backend software engineering, systems design, and platform engineering**
+ **I am interested in backend software engineering, systems design, and deep learning/neural networks**
 - 🌱 I’m currently learning ...
-  - Kotlin
-  - Container Orchestration & Management on AWS
   - Machine Learning
+  - Machine Vision
+  - LLM powered apps
+  - Container Orchestration & Management on AWS
 - 👯 I'm passionate about working with teams from different disciplines so please feel free to reach out!
 - 🧠 I am always eager to learn something new
-- 📖 I love to read books, 🏐/⚽ play soccer and volleyball, 🎵 listen to music, and 🌴 explore unfamiliar locations.
+- 📖 I love play soccer and volleyball 🏐/⚽, 🎵 listen to music, and 🌴 visit places I've never been to!
 - 📫 Reach out to me at: <a href="l328xu@uwaterloo.ca">l328xu@uwaterloo.ca</a>
 
 ## **👀 Check out my favourite (pinned) Personal Projects below on GitHub!**
