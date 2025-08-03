@@ -6,11 +6,11 @@ I am an undergraduate Computer Engineering student at the University of Waterloo
 I love building cool, useful tools that make our everyday lives easier or more interesting :) 
 
 ## **💪 Past Internship Experience**
-- Full-Stack Mobile Software Engineer Intern @ [Tensor Trade](https://www.tensor.trade/) -> React Native + Expo, TypeScript, GraphQL
-- Backend Software Engineer Intern @ [KOHO Financial Inc](https://www.linkedin.com/company/koho/posts/?feedView=all) -> Go, PostgreSQL, DynamoDB, Jenkins, AWS
-- Data Architect Intern @ [KOHO Financial Inc](https://www.linkedin.com/company/koho/posts/?feedView=all) -> Go, DataDog, Amazon RedShift, AWS, SQL
-- Full-Stack Software Engineer Intern @ [How to Change the World Incorporated](https://www.linkedin.com/company/howtochangetheworld/posts/?feedView=all) -> Python, Elixir, Phoenix, Selenium, JavaScript
-- Hardware Engineer Intern @ [Amico Group of Companies](https://www.linkedin.com/company/amico-corporation/) -> Voltage Testing, Hardware QA
+- Full-Stack Mobile Software Engineer Intern @ [Tensor Trade](https://www.tensor.trade/)
+- Backend Software Engineer Intern @ [KOHO Financial Inc](https://www.linkedin.com/company/koho/posts/?feedView=all)
+- Data Architect Intern @ [KOHO Financial Inc](https://www.linkedin.com/company/koho/posts/?feedView=all)
+- Full-Stack Software Engineer Intern @ [How to Change the World Incorporated](https://www.linkedin.com/company/howtochangetheworld/posts/?feedView=all)
+- Hardware Engineer Intern @ [Amico Group of Companies](https://www.linkedin.com/company/amico-corporation/)
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
